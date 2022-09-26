@@ -1,10 +1,3 @@
-<p align="left">Hello World!!</p>
-
-###
-
-<p align="left">Hello World!!</p>
-
-###
 
 <p align="left">- 👋 Hi, I’m Chinmay<br>- 👀 I’m interested in ... Computer science, AI</p>
 

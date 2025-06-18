@@ -1,5 +1,5 @@
 
-<p align="left">- 👋 Hi, I’m Chinmay<br>- 👀 I’m interested in ... Computer science, AI</p>
+<p align="left">- 👋 Hi, I’m Chinmay<br>- 👀 I work on Machine Learning, DataScience, Generative AI, LLMs, Transformers, Langchain, AWS, Computer VIsion</p>
 
 ###
 
